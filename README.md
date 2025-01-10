@@ -24,8 +24,8 @@ Terminal and text editor (e.g., nano, vi).
 
 2.Clone the Repository:
 Copy code
-git clone <repository-link>
-cd <repository-name>
+git clone < repository-link >
+cd < repository-name >
 
 3. Compile the Program:
 Copy code
@@ -37,7 +37,7 @@ Copy code
 ./supercommand
 For direct execution:
 Copy code
-./supercommand -m < mode > <operation> [parameters]
+./supercommand -m < mode > < operation > [parameters]
 
 Usage
 Command-Line Examples

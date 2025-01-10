@@ -8,11 +8,12 @@ Features
 1. File Operations
 Create, open, read, write, delete files.
 Change file permissions.
-2. Directory Operations
+
+3. Directory Operations
 Create and delete directories.
 Display the current working directory.
 List files and subdirectories.
-3. Keylogging Operations
+4. Keylogging Operations
 Record keystrokes in the background.
 Save keystrokes to keylog.txt with timestamps.
 

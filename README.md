@@ -37,7 +37,7 @@ Copy code
 ./supercommand
 For direct execution:
 Copy code
-./supercommand -m <mode> <operation> [parameters]
+./supercommand -m < mode > <operation> [parameters]
 
 Usage
 Command-Line Examples

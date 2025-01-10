@@ -62,10 +62,10 @@ keylog.txt: Output file for keylogging operations.
 README.md: Project documentation.
 
 Contributors
-Mohammad Ibnu Walid Bin Abdullah
-Izzan Hazirah Binti Harun
-Vianney Camelie anak Kerbun
-Voon Siew Ling
+1.Mohammad Ibnu Walid Bin Abdullah
+2.Izzan Hazirah Binti Harun
+3.Vianney Camelie anak Kerbun
+4.Voon Siew Ling
 
 Reflection
 This project was a learning experience in system programming using C.

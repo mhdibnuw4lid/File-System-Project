@@ -8,7 +8,6 @@ Features
 1. File Operations
 Create, open, read, write, delete files.
 Change file permissions.
-
 3. Directory Operations
 Create and delete directories.
 Display the current working directory.
